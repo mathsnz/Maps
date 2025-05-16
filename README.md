@@ -1,4 +1,4 @@
-# maps
+# Maps
 Created to support the geography / social science teachers at my school.
 
 Maps are created using [QGIS](https://qgis.org/)
