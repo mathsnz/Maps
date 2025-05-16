@@ -3,7 +3,8 @@ Created to support the geography / social science teachers at my school.
 
 Maps are created using [QGIS](https://qgis.org/)
 
-There are four versions of the maps:
+There are four versions of the maps, and a file with all 4 maps
+
 Equal earth projection centered on Asia-Pacific ([EPSG 8859](https://epsg.io/8859))
 - One with gridlines every 10 degrees
 - One with no gridlines
